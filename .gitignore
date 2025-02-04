@@ -1,0 +1,4 @@
+*.sh
+data/*
+assets/*
+**/__pycache__/*
